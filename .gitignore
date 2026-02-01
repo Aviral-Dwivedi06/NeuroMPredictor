@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Data and Models
+# We usually ignore the large CSVs and the heavy .pth files 
+# to keep the repo lightweight.
+data/hardware_specs.csv
+models/*.pth
+
+# IDE Specific
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
