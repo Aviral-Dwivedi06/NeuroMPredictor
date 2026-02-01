@@ -116,5 +116,6 @@ Conclusion
 The NeuroM Predictor by Team Morpheus represents an attempt at embedding the deterministic laws of semiconductor physics into the stochastic nature of neural networks to create a physically reliable simulator.
 
 For the Micron Mimory Competition, this tool demonstrates how machine learning can accelerate the validation of RRAM-based hardware, for possible applications in low-power edge computing
+
 ---
 
