@@ -2,6 +2,7 @@
 ## Neuromorphic Framework Predictor
 
 This project was designed for the Micron Mimory Competition by Team Morpheus. 
+By combining machine learning with semiconductor physics, we aim to provide a tool that reduces the need for expensive SPICE simulations while maintaining the accuracy required for next-generation RRAM neuromorphic chip design.
 
 ## Project Overview
 
@@ -104,6 +105,3 @@ python main.py
 ```
 ---
 
-By combining machine learning with semiconductor physics, we aim to provide a tool that reduces the need for expensive SPICE simulations while maintaining the accuracy required for next-generation RRAM neuromorphic chip design.
-
----
