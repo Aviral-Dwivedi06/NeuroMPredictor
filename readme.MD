@@ -103,5 +103,18 @@ Launch the interactive "What-If" simulation dashboard:
 python main.py
 
 ```
+Future Roadmap & Scalability
+The current iteration of the NeuroM Predictor serves as a foundational proof-of-concept for accelerated neuromorphic design. Future plans include:
+
+Multi-Compartment Neuron Support: Extending the PINN framework to simulate dendritic trees and complex temporal dynamics beyond simple LIF models.
+
+On-Chip Training Emulation: Integrating backpropagation-of-delay (BoD) algorithms to simulate real-time weight updates within the RRAM crossbar.
+
+Radiation-Hardened Analysis: Incorporating ionizing radiation models to predict reliability in aerospace applications—a critical market for Micron’s NVM technology.
+
+Conclusion
+The NeuroM Predictor by Team Morpheus represents an attempt at embedding the deterministic laws of semiconductor physics into the stochastic nature of neural networks to create a physically reliable simulator.
+
+For the Micron Mimory Competition, this tool demonstrates how machine learning can accelerate the validation of RRAM-based hardware, for possible applications in low-power edge computing
 ---
 
